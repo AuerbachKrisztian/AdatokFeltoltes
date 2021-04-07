@@ -1,0 +1,10 @@
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\bin\Debug\OraiMunka20210407.exe.config
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\bin\Debug\OraiMunka20210407.exe
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\bin\Debug\OraiMunka20210407.pdb
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\obj\Debug\OraiMunka20210407.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\obj\Debug\OraiMunka20210407.Form1.resources
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\obj\Debug\OraiMunka20210407.Properties.Resources.resources
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\obj\Debug\OraiMunka20210407.csproj.GenerateResource.cache
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\obj\Debug\OraiMunka20210407.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\obj\Debug\OraiMunka20210407.exe
+C:\Users\win10\source\repos\OraiMunka20210407\OraiMunka20210407\obj\Debug\OraiMunka20210407.pdb
